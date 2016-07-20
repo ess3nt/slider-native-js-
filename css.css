@@ -1,0 +1,29 @@
+body{
+    background: black;
+
+}
+.slider {
+    position: absolute;
+    overflow:hidden;
+  /*  transition: left 500ms linear 0.5s;*/
+}
+.slides {
+    display: block;
+    position: absolute;
+ /*   transition: inherit;*/
+
+}
+.poc{
+    position: absolute;
+    top: 350px;
+}
+.pocc{
+    position: absolute;
+    top: 350px;
+    left: 350px;
+}
+.inli{
+    position: absolute;
+    display: inline;
+    left: 350px;
+}
